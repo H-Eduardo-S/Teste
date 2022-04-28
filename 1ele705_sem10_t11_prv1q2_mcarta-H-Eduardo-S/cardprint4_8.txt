@@ -1,0 +1,17 @@
+Hand
+  Six of Diamonds   Nine of Diamonds   King of Hearts     Four of Diamonds
+Deuce of Clubs     Three of Clubs     Deuce of Spades     Nine of Spades  
+Deck
+ Five of Hearts     Nine of Clubs     Eight of Clubs       Ten of Spades  
+Seven of Clubs       Ace of Hearts     Four of Clubs     Eight of Spades  
+ Jack of Diamonds   Nine of Hearts     Jack of Hearts    Queen of Clubs   
+  Ace of Spades     King of Clubs      Five of Diamonds  Three of Hearts  
+Seven of Diamonds    Six of Hearts    Queen of Hearts      Ten of Hearts  
+ Jack of Clubs      King of Spades    Queen of Spades    Three of Diamonds
+  Ace of Clubs      King of Diamonds    Ten of Clubs      Four of Hearts  
+  Six of Clubs     Eight of Diamonds   Jack of Spades     Five of Clubs   
+Three of Spades    Eight of Hearts    Seven of Spades      Ace of Diamonds
+ Four of Spades    Queen of Diamonds   Five of Spades    Deuce of Hearts  
+  Six of Spades      Ten of Diamonds  Deuce of Diamonds  Seven of Hearts  
+Maior Carta
+ Nine of Spades  
